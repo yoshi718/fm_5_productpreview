@@ -63,7 +63,7 @@ body {
 
 .main__image {
     border-radius: var(--border-radius) var(--border-radius) 0 0 ;
-    background-image: url('/images/image-product-mobile.jpg');
+    background-image: url('../images/image-product-mobile.jpg');
     height:240px;
     background-size: cover;
 }
@@ -151,7 +151,7 @@ h2 {
     .main__image {
         height: 100%;
         border-radius: var(--border-radius) 0 0 var(--border-radius);
-        background-image: url('/images/image-product-desktop.jpg');
+        background-image: url('../images/image-product-desktop.jpg');
         background-size: cover;
     }
     
